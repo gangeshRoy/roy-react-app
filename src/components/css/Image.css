@@ -1,0 +1,68 @@
+.Image {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  .Image img {
+    display: none;
+  }
+  .Image-actual,
+  .Image-failed {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .Image-failed {
+    background: url(../img/6.svg) no-repeat;
+    background-position: center;
+    background-size: 40%;
+  }
+  .Image-loaded .Image-actual {
+    opacity: 1;
+  }
+  .Image-error .Image-failed {
+    opacity: 1;
+  }
+  @media only screen and (min-width: 320px) and (max-width: 1199px) {
+    .LeftImageHolder .Image-actual,
+    .LeftImageHolder .Image-failed {
+      background-size: contain !important;
+      background-position: center !important;
+    }
+    .RightImageHolder .Image-actual,
+    .RightImageHolder .Image-failed {
+      background-size: contain !important;
+      background-position: center !important;
+    }
+    .HomePage .HomeBanner .Image-actual {
+      background-position: center bottom !important;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 1199px) {
+    .JobSeekerHomePage .HomeBanner .Image-actual {
+      background-position: 81% !important;
+      background-size: cover !important;
+    }
+    .RecruiterHomePage .HomeBanner .Image-actual {
+      background-position: 70% !important;
+      background-size: cover !important;
+    }
+  }
+  @media only screen and (min-width: 320px) and (max-width: 767px) {
+    .JobSeekerHomePage .HomeBanner .Image-actual {
+      background: url(../img/JobseekerMobile.jpeg) no-repeat !important;
+      background-position: center !important;
+      background-size: cover !important;
+    }
+    .RecruiterHomePage .HomeBanner .Image-actual {
+      background: url(../img/JobseekerMobile.jpeg) no-repeat !important;
+      background-position: center !important;
+      background-size: cover !important;
+    }
+  }
+  

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Work</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work">
+            <rect id="Rectangle-2" x="0" y="0" width="50" height="50"></rect>
+            <g id="pre-satchel" transform="translate(3.000000, 5.000000)" fill="#000000" fill-rule="nonzero">
+                <path d="M43,6 L1,6 C0.447,6 0,6.447 0,7 L0,21 C0,21.553 0.447,22 1,22 L2,22 L2,39 C2,39.553 2.447,40 3,40 L41,40 C41.553,40 42,39.553 42,39 L42,22 L43,22 C43.553,22 44,21.553 44,21 L44,7 C44,6.447 43.553,6 43,6 Z M40,38 L4,38 L4,22 L10,22 L10,25 C10,25.553 10.447,26 11,26 C11.553,26 12,25.553 12,25 L12,22 L32,22 L32,25 C32,25.553 32.447,26 33,26 C33.553,26 34,25.553 34,25 L34,22 L40,22 L40,38 Z M42,20 L34,20 L34,17 C34,16.447 33.553,16 33,16 C32.447,16 32,16.447 32,17 L32,20 L12,20 L12,17 C12,16.447 11.553,16 11,16 C10.447,16 10,16.447 10,17 L10,20 L2,20 L2,8 L42,8 L42,20 Z" id="Shape"></path>
+                <path d="M14,4 C14,4.553 14.447,5 15,5 C15.553,5 16,4.553 16,4 C16,2.897 16.897,2 18,2 L26,2 C27.103,2 28,2.897 28,4 C28,4.553 28.447,5 29,5 C29.553,5 30,4.553 30,4 C30,1.794 28.206,0 26,0 L18,0 C15.794,0 14,1.794 14,4 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

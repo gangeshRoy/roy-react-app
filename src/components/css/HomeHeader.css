@@ -1,0 +1,128 @@
+.HomeHeader {
+  width: 100%;
+  height: 60px;
+  padding: 0 30px;
+  background: #fff;
+  position: fixed;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.HomeHeaderSolid {
+  width: 100%;
+  height: 60px;
+  padding: 0 30px;
+  background: #fff;
+  position: fixed;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 15;
+  box-shadow: 2px 2px 26px 0 rgba(0, 0, 0, 0.2);
+}
+.HomeHeader:hover {
+  background-color: #fff;
+  box-shadow: 2px 2px 26px 0 rgba(0, 0, 0, 0.2);
+}
+.HomeHeader-Container {
+  width: 100%;
+  height: auto;
+  background: transparent;
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  padding:0px 30px;
+}
+.HomeHeader-leftChild {
+  width: 40%;
+  height: auto;
+  display: inline-flex;
+}
+.HomeHeader-leftChildContainer {
+  width: 100%;
+  height: auto;
+  display: inline-flex;
+}
+
+.HomeHeader-icon {
+  width: 45px;
+  height: 40px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  background: url(../img/logo.png) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.HomeHeader-iconWhite {
+  width: 45px;
+  height: 40px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  background: url(../img/logo.png) no-repeat;
+  background-position: center;
+}
+.HomeHeader-rightChild {
+  width: 60%;
+  height: auto;
+  display: inline-flex;
+  align-items: center;
+}
+.HomeHeader-headingTextHolder {
+  width: auto;
+  height: auto;
+  font-family: semibold;
+  display: inline-flex;
+  justify-content: flex-end;
+  padding-right:20px;
+}
+.HomeHeader-headingText {
+  width: 100%;
+  height: auto;
+  padding-right: 25px;
+  font-family: bolder;
+  font-size: 12px;
+  display: inline-flex;
+  color: #000000;
+  align-items: center;
+}
+.HomeHeader-headingTextActive {
+  width: 100%;
+  height: auto;
+  padding-right: 25px;
+  font-family: bolder;
+  font-size: 12px;
+  display: inline-flex;
+  color: #1cc7d0;
+  align-items: center;
+}
+.HomeHeader-headingText.HomeHeader-headingTextActive {
+  color: #1cc7d0;
+}
+.HomeHeader-headingText:hover {
+  color: #1cc7d0;
+  cursor: pointer;
+}
+.HomeHeader-rightContainerTextholder {
+  width: 100%;
+  display: inline-flex;
+  justify-content: flex-end;
+}
+.HomeHeader-logoHolder {
+  width: 150px;
+  height: 60px;
+  display: -webkit-flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  border-radius: 3px;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>View</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="View">
+            <rect id="Rectangle-2" x="0" y="0" width="50" height="50"></rect>
+            <g id="pho-redeye" transform="translate(3.000000, 11.000000)" fill="#ffffff" fill-rule="nonzero">
+                <path d="M32,14 C32,8.486 27.514,4 22,4 C16.486,4 12,8.486 12,14 C12,19.514 16.486,24 22,24 C27.514,24 32,19.514 32,14 Z M22,22 C17.589,22 14,18.411 14,14 C14,9.589 17.589,6 22,6 C26.411,6 30,9.589 30,14 C30,18.411 26.411,22 22,22 Z" id="Shape"></path>
+                <path d="M22,8 C18.691,8 16,10.691 16,14 C16,14.552 16.448,15 17,15 C17.552,15 18,14.552 18,14 C18,11.794 19.794,10 22,10 C22.552,10 23,9.552 23,9 C23,8.448 22.552,8 22,8 Z" id="Shape"></path>
+                <path d="M43.894,14.449 C44.035,14.167 44.035,13.835 43.894,13.553 C39.71,5.193 31.321,0 22.001,0 C12.68,0 4.291,5.194 0.106,13.555 C-0.035,13.837 -0.035,14.169 0.106,14.451 C4.293,22.809 12.683,28 22.001,28 C31.319,28 39.708,22.808 43.894,14.449 Z M2.125,14.002 C6.04,6.586 13.61,2 22.001,2 C30.391,2 37.96,6.585 41.876,14.001 C37.959,21.416 30.39,26 22.001,26 C13.613,26 6.042,21.416 2.125,14.002 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
